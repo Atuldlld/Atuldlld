@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ka Autaro.
+- 👀 I’m interested in Gmod, Glua
+- 📫 reach me at: kaautaro@gmail.com
+- ⚡ Fun fact: If code not working - make the code a commentary.
