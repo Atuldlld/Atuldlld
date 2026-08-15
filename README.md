@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just Russian Serv/Vedik bot/yarikdev.vkweb.su developer<br><br>🔭 I’m currently working on Just Russian Serv<br>🌱 I’m currently learning glua and python a bit
+Vedik bot/yarikdev.vkweb.su developer<br><br>🔭 I’m currently working on ////????<br>🌱 I’m currently learning Glua and python a bit
 
 
 ## 🌐 Socials:
