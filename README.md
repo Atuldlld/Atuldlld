@@ -1,6 +1,6 @@
 # 💫 About Me:
-Vedik bot/yarikdev.vkweb.su developer<br><br>🔭 I’m currently working on ////????<br>🌱 I’m currently learning Glua and python a bit
-
+🌱 I’m currently learning in (G)Lua, Python, JavaScript
+<!-- Vedik bot/yarikdev.vkweb.su developer<br><br>🔭 I’m currently working on ////????<br> -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yJVPpVe3gx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaautaro) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remote_Clue_538) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eto_piezzdec) 
